@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "298029244235",
+    "project_id": "zartek-phone-auth",
+    "storage_bucket": "zartek-phone-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298029244235:android:278ecd0a87274f344a52ce",
+        "android_client_info": {
+          "package_name": "com.example.zartek_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298029244235-sr5ug0p0pkb8e6b7b5r4lotq3ottobkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zartek_project",
+            "certificate_hash": "3355b922119358ed4575ec1440ca885a5318b1eb"
+          }
+        },
+        {
+          "client_id": "298029244235-gf09p26tjrthr1vq546a2lsttosuafvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw5_fOGQVXSYsMOShXg5TBqxFM4GQVT38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298029244235-gf09p26tjrthr1vq546a2lsttosuafvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
